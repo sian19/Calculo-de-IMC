@@ -29,4 +29,4 @@ com o estado borderM, onde o valor que será mudado desses estados será a borda
 </ul>
 
 <h3>Link do projeto:</h3>
-<a href="">Clique aqui</a>
+<a href="https://imc-calculator19.herokuapp.com/">Clique aqui</a>
