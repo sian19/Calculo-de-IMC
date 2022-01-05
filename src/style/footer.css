@@ -1,0 +1,14 @@
+footer{
+    width: 100%;
+    padding: 10px 2%;
+    background-color: var(--green-blue);
+    text-align: center;
+}
+
+footer h4:first-child{
+    font-size: 22px;
+}
+
+footer h4:last-child{
+    font-size: 18px;
+}

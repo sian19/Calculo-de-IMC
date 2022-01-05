@@ -1,0 +1,24 @@
+
+.flex-sexo, .text-sex{
+    max-width: 360px;
+    margin: 0 auto;
+    padding: 0 2%;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-m, .box-h{
+    width: 49.5%;
+    text-align: center;
+    padding: 6px 0;
+    border: 1px solid var(--prussian-blue);
+    border-radius: 5px;
+    cursor: pointer;
+    color: var(--prussian-blue);
+    background-color: rgb(255, 255, 255);
+}
+
+span{
+    width: 0.5%;
+}

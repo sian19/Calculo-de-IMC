@@ -1,0 +1,29 @@
+header{
+    width:  100%;
+    background-color:  var(--green-blue);
+}
+
+.center{
+    width: 100%;
+    max-width: 1100px;
+    padding: 10px 2%;
+    margin: 0 auto;
+
+}
+
+header > .center{
+    display: flex;
+    flex-direction: column;
+}
+
+header img{
+    align-self: center;
+    width:  4rem;
+}
+
+.logo{
+    text-align: center;
+}
+
+
+

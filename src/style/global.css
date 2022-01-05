@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    --green-blue: #3F88C5;
+    --prussian-blue: #032b43;
+    --selective-yellow: #ffba08;
+}
+
+body{
+    font-family: Hind Siliguri, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    
+}
+input[type=number] { 
+   -moz-appearance: textfield;
+   appearance: textfield;
+
+}

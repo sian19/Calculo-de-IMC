@@ -1,0 +1,23 @@
+.errorAlt{
+    color: red;
+}
+
+.errorNoneAlt{
+    display: none;
+}
+
+.errorPeso{
+    color: red;
+}
+
+.errorNonePeso{
+    display: none;
+}
+
+.errorIda{
+    color:  red;
+}
+
+.errorNoneIda{
+    display: none;
+}
